@@ -1,0 +1,9 @@
+streamlit==1.45.1
+PyPDF2==3.0.1
+langchain-community==0.3.24
+langchain-openai==0.3.16
+langchain==0.3.25
+python-dotenv==1.1.0
+matplotlib==3.8.4
+pandas==2.2.3
+numpy==2.2.5
